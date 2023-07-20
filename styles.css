@@ -1,0 +1,32 @@
+@import 'tailwind.css';
+
+body {
+    background-color: #1a202c;
+    color: #ffffff;
+}
+
+#header {
+    padding: 20px;
+    text-align: center;
+}
+
+#main-content {
+    margin: 20px;
+}
+
+#footer {
+    padding: 20px;
+    text-align: center;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.bg-dark {
+    background-color: #1a202c;
+}
+
+.text-white {
+    color: #ffffff;
+}
